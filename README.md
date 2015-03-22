@@ -1,4 +1,4 @@
-# Assume the data files are in the currenct working directory
+Assumption: The data files are located in the current working directory
 
 The run_analysis.R script does the following:
 
