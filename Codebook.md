@@ -25,7 +25,9 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
+
 The set of variables that were estimated from these signals are: 
+
 
 mean(): Mean value
 std(): Standard deviation
@@ -55,7 +57,9 @@ tBodyGyroJerkMean
 
 The following is a list of all the columns in the data, for those columns described above the description field is left empty
 
-Column name				 Data type  description 
+
+Column name	 			data  type  description 
+
 subject                  : int   	subject id
 tbodyacc-mean-x          : num  
 tbodyacc-mean-y          : num  
